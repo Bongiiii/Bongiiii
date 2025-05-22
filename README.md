@@ -37,3 +37,5 @@ Open to:
 Find me on [LinkedIn](http://www.linkedin.com/in/bongiwe-mkwananzi-14968b1bb) and let’s build something meaningful!
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bongiiii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
