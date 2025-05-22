@@ -39,3 +39,11 @@ Find me on [LinkedIn](http://www.linkedin.com/in/bongiwe-mkwananzi-14968b1bb) an
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bongiiii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bongiiii&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+![GitHub Stats](https://streak-stats.demolab.com?user=Bongiiii&theme=tokyonight&hide_border=true)
