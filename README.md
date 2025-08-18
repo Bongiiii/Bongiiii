@@ -2,7 +2,7 @@
 
 Welcome to my corner of the internet 👩🏽‍💻
 
-I'm a rising senior majoring in **Computer Science** with a minor in **International Studies**. I’m passionate about **AI/ML**, **robotics**, and how tech can weave its way into our everyday lives in creative, meaningful ways — from conservation to crochet 🧶🤖.
+I'm a senior majoring in **Computer Science** with a minor in **International Studies**. I’m passionate about **AI/ML**, **robotics**, and how tech can weave its way into our everyday lives in creative, meaningful ways — from conservation to crochet 🧶🤖.
 
 ---
 
@@ -13,9 +13,9 @@ I'm a rising senior majoring in **Computer Science** with a minor in **Internati
 ---
 
 ### ⚡ A Little More About Me:
-- 💚 Obsessed with the color green, GO GREEN!
-- 💪 I enjoy working out; it helps keep my mind sharp
-- 🍵 Matcha enthusiast — send me your fave recipes!
+- 💚 Obsessed with the color green!
+- 💪 I enjoy working out...ok, maybe in it for the defined biceps(still working on them lol)
+- 🍵 Matcha enthusiast...and it doesn't taste like grass(how do y'all even know how grass tastes🌚)
 - 📺 Always down for anime recs (and I’ll trade you mine!)
 - 🧶 I crochet
 - 🎯 I love projects that combine creativity, community, and code
