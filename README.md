@@ -15,10 +15,14 @@ I'm a senior majoring in **Computer Science** with a minor in **International St
 ### ⚡ A Little More About Me:
 - 💚 Obsessed with the color green!
 - 💪 I enjoy working out...ok, maybe in it for the defined biceps(still working on them lol)
+- I only eat salads because they are healthy and good for me...blah blah lies, cause they are green.
 - 🍵 Matcha enthusiast...and it doesn't taste like grass(how do y'all even know how grass tastes🌚)
+- Did I mention that my favorite color is green?!
 - 📺 Always down for anime recs (and I’ll trade you mine!)
 - 🧶 I crochet
+- I love green, I wanna be green.
 - 🎯 I love projects that combine creativity, community, and code
+- FYI, favorite color is green!
 
 ---
 
@@ -39,6 +43,12 @@ Find me on [LinkedIn](http://www.linkedin.com/in/bongiwe-mkwananzi-14968b1bb) an
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bongiiii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+
+---
+PSA: My favorite color is green.
+
+
 
 ---
 
